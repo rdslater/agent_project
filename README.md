@@ -9,6 +9,7 @@
 
 ## Models Used
 -  Small Nvidia 2070 8GB:
+  - Qwen2.5:9b
 -  Medium A5000x2 (2x24 GB):
 -  Look at the Peasants (1-8 x H200):
 ---
