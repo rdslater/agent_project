@@ -1,5 +1,17 @@
 # Dataset Inspector Agent
 
+## Acomplished So Far
+- Basic Script
+- Ollama Setup
+
+## Next Step
+- CV Tools
+
+## Models Used
+-  Small Nvidia 2070 8GB:
+-  Medium A5000x2 (2x24 GB):
+-  Look at the Peasants (1-8 x H200):
+
 An LLM agent for auditing image datasets. Point it at a folder of images (and optionally labels), ask questions in plain English, and it decides which tools to run and reports back. Example questions:
 
 - "Are there near-duplicates?"
