@@ -1,0 +1,19 @@
+[project]
+name = "agent-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Robert Slater", email = "rdslater@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.3.0",
+]
+
+[project.scripts]
+agent-project = "agent_project:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
